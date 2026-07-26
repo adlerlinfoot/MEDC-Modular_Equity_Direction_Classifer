@@ -1,4 +1,4 @@
-**MEDC‑fEDC: Modular Equity Direction Classifier (Daily UP/DOWN Forecasting Engine)**
+**MEDC: Modular Equity Direction Classifier (Daily UP/DOWN Forecasting Engine)**
 
 ---
 
