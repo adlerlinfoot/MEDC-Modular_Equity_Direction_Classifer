@@ -1,9 +1,0 @@
-{
-    "best_params": {
-        "clf__learning_rate": 0.1,
-        "clf__max_depth": 4,
-        "clf__n_estimators": 800,
-        "clf__subsample": 1.0
-    },
-    "val_accuracy": 0.5201037613488975
-}
